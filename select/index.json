@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Tiny Dancers",
+  "base_artist": "Aimer",
+  "createdAt": "2025-12-02T12:08:45.154934Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tiny Dancers",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_Tiny_Dancers_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tiny Dancers",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_Tiny_Dancers_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tiny Dancers",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_Tiny_Dancers_Aimer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tiny Dancers",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_Tiny_Dancers_Aimer.txt"
+    }
+  ]
+}
